@@ -102,7 +102,7 @@ font-weight: bold;
 /* showcase */
 #showcase{
   min-height:400px;
-  background:url('../images/bgimg.jpg') no-repeat 0 200px;
+  background:url('bgimg.jpg') no-repeat 0 200px;
   background-size: cover; /* or contain depending on what you want */
   text-align:center;
   margin:auto;
@@ -165,7 +165,7 @@ article#main-col{
 }
 #boxes .box img{
   width: 300px;
-  
+
 }
 
 
